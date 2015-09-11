@@ -5,3 +5,4 @@ https://github.com/hiloki/flocss
 
 ユーティリティの命名はEmmetのチートシートを参考にすること。  
 例えば、font-weight: bold;を書けたければ、プレフィックス以降は「:」を省略したfwbをつけ.u-fwbとする。  
+!importantをつける
