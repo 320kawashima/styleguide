@@ -1,2 +1,7 @@
-﻿ユーティリティの命名はEmmetのチートシートを参考にすること。  
-例えば、font-weight: bold;を書けたければ、.fwbとする「:」は省略する。
+﻿#CSS設計について
+https://github.com/hiloki/flocss  
+
+##Utility
+
+ユーティリティの命名はEmmetのチートシートを参考にすること。  
+例えば、font-weight: bold;を書けたければ、.fwbとする「:」は省略する。  
