@@ -4,9 +4,9 @@ https://github.com/hiloki/flocss
 ###単語の省略について
 
 以下の単語については省略  
--banner → bnr  
--description → desc  
--navigation → nav  
+- banner → bnr  
+- description → desc  
+- navigation → nav  
 
 ###命名についての注意点
 Block, Element, Modifierで重複する単語は使わない
