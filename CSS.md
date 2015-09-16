@@ -1,4 +1,6 @@
 ﻿#CSS設計について
+
+flocssの構成案をベースとする  
 https://github.com/hiloki/flocss  
 
 ###単語の省略について
@@ -7,9 +9,6 @@ https://github.com/hiloki/flocss
 - banner → bnr  
 - description → desc  
 - navigation → nav  
-
-###命名についての注意点
-Block, Element, Modifierで重複する単語は使わない
 
 ##Utility
 
