@@ -7,6 +7,7 @@ https://github.com/hiloki/flocss
 
 以下の単語については省略  
 - banner → bnr  
+- button → btn  
 - content → cont  
 - description → desc  
 - navigation → nav  
