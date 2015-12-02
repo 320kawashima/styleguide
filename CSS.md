@@ -14,8 +14,14 @@ BEMをベースとする
 }　　
 ```
 
-単語のつなぎ目は大文字で記述。
+単語のつなぎ目は大文字で記述。  
 -はプレフィックスのみで使用する。
+
+####Utility
+
+ユーティリティの命名はEmmetのチートシートを参考にすること。  
+例えば、font-weight: bold;を書きたければ、プレフィックス以降は「:」を省略したfwbをつけ.u-fwbとする。  
+!importantをつける。
 
 ###単語の省略について
 
@@ -28,12 +34,6 @@ BEMをベースとする
 - navigation → nav  
 - section → sec  
 - Template → temp  
-
-###Utility
-
-ユーティリティの命名はEmmetのチートシートを参考にすること。  
-例えば、font-weight: bold;を書きたければ、プレフィックス以降は「:」を省略したfwbをつけ.u-fwbとする。  
-!importantをつける。
 
 ###class、id命名の例外
 styleを持たないJavaScriptのみで使用するclass名、id名はキャメルケースで記述。FLOCSSとは切り離して考える。
