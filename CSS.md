@@ -3,6 +3,19 @@
 FLOCSSの構成案をベースとする  
 https://github.com/hiloki/flocss  
 
+###命名規則
+BEMをベースとする
+
+例えば
+
+```css
+.p-list__listItem_active {　　
+　　
+}　　
+```
+
+単語のつなぎ目は大文字で記述。
+-はプレフィックスのみで使用する。
 
 ###単語の省略について
 
@@ -23,6 +36,6 @@ https://github.com/hiloki/flocss
 !importantをつける。
 
 ###class、id命名の例外
-Styleを持たないJavaScriptのみで使用するclass名、id名はキャメルケースで記述。FLOCSSとは切り離して考える。
+styleを持たないJavaScriptのみで使用するclass名、id名はキャメルケースで記述。FLOCSSとは切り離して考える。
 
 
