@@ -41,8 +41,3 @@ js-のプレフィックスをつける
 - position → pos  
 - section → sec  
 - template → temp  
-
-###class、id命名の例外
-styleを持たないJavaScriptのみで使用するclass名、id名はキャメルケースで記述。FLOCSSとは切り離して考える。
-
-
