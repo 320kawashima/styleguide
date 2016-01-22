@@ -4,19 +4,15 @@ FLOCSSの構成案をベースとする
 https://github.com/hiloki/flocss  
 
 ###命名規則
-BEMをベースとする  
+mindBEMDingをベースとする  
 ※objectはプレフィックスをつける  
 
-例えば
 
-```css
-.p-list__listItem_active {　　
-　　
-}　　
-```
-
-単語のつなぎ目は大文字で記述。  
--はプレフィックスのみで使用する。
+単語のつなぎ目の頭文字は大文字で記述。  
+-はプレフィックスのみで使用する。  
+__はblockとelementの区切り。  
+--はmodifierの直前のみ
+-はkeyとvalueのつなぎとして使用する。  
 
 ####JSで使用するclass名の命名規則
 js-のプレフィックスをつける
